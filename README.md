@@ -1,2 +1,2 @@
-# odin--recipes
-d
+This is my first html proj
+ect under odin project
